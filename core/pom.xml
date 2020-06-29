@@ -157,7 +157,7 @@
 			</resource>
 			<resource>
 				<directory>${basedir}/src/main/resources</directory>
-				<targetPath>/</targetPath>
+<!--				<targetPath>/</targetPath>  -->
 				<includes>
 					<include>**/*</include>
 				</includes>
